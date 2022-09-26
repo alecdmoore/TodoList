@@ -1,0 +1,15 @@
+body {
+  background-color: #f3f3f3;
+  color: black;
+}
+
+.todo-add,
+.icon {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.todo-card {
+  display: flex;
+  border: solid 1px black;
+}
